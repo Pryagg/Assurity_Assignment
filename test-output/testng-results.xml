@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Condition1 - Exepected Carbon credits Actual Carbon credits]]>
+    </line>
+    <line>
+      <![CDATA[Condition2 - Exepected Carbon credits Actual Carbon credits]]>
+    </line>
+    <line>
+      <![CDATA[Condition3 - Exepected Gallery Actual Gallery]]>
+    </line>
+    <line>
+      <![CDATA[Condition4 - Exepected Gallery Actual Good position in category 
+2x larger image in desktop site search results]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1397" started-at="2018-02-18T09:08:18Z" finished-at="2018-02-18T09:08:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1397" started-at="2018-02-18T09:08:18Z" finished-at="2018-02-18T09:08:19Z">
+      <class name="testcases.testcase_AcceptanceCritera">
+        <test-method status="PASS" signature="AcceptanceCriteria()[pri:0, instance:testcases.testcase_AcceptanceCritera@20322d26]" name="AcceptanceCriteria" duration-ms="1348" started-at="2018-02-18T22:08:18Z" finished-at="2018-02-18T22:08:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Condition1 - Exepected Carbon credits Actual Carbon credits]]>
+            </line>
+            <line>
+              <![CDATA[Condition2 - Exepected Carbon credits Actual Carbon credits]]>
+            </line>
+            <line>
+              <![CDATA[Condition3 - Exepected Gallery Actual Gallery]]>
+            </line>
+            <line>
+              <![CDATA[Condition4 - Exepected Gallery Actual Good position in category 
+2x larger image in desktop site search results]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AcceptanceCriteria -->
+      </class> <!-- testcases.testcase_AcceptanceCritera -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
